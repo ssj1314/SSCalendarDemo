@@ -1,0 +1,89 @@
+//
+//  HTFPrefixHeader.pch
+//  HTF_New
+//
+//  Created by Revival_Road on 16/8/26.
+//  Copyright © 2016年 htffund. All rights reserved.
+//
+
+#ifndef HTFPrefixHeader_pch
+#define HTFPrefixHeader_pch
+
+#ifdef __OBJC__
+#import "HTFUtilsDef.h"
+#import "HTFFontsDef.h"
+////#import "HTFAPIDef.h"
+//#import "HTFIPDef.h"
+//#import "HTFUserDefaultsDef.h"
+#import "HTFColorsDef.h"
+//#import "HTFTextDef.h"
+//#import "HTFTestDef.h"
+//#import "HTFEnum.h"
+//#import "HTFConst.h"
+//#import "HTFDataFormatterDef.h"
+//#import "HTFProtocol.h"
+//#import "AXAlerView.h"
+//#import "AXProcessHud.h"
+//#import "RiskPresenter.h"
+//#import "ACustomerServicePresenter.h"
+//
+//#import "MyUserInfo.h"
+//#import "AppDelegate.h"
+//#import "RTLabel.h"
+//#import "AXUnderLineButton.h"
+//#import "AXTagLabel.h"
+//#import "AXTableViewCell.h"
+//#import "AUserVerifyLogic.h"
+//
+//#import "DResourceDispatch.h"
+//
+//#import "GTMBase64.h"
+//
+//#import "NSString+Encrypt.h"
+//#import "NSString+Additions.h"
+//#import "UIImageView+Additions.h"
+#import "UIView+LayoutMethods.h"
+//#import "UIView+Additions.h"
+//#import "UIViewController+Additions.h"
+//#import "NSMutableDictionary+Additions.h"
+//#import "UITableViewCell+Additions.h"
+//#import "UITextField+Additions.h"
+#import "NSArray+Additions.h"
+//#import "NSMutableArray+Additions.h"
+//#import "UIImage+Additions.h"
+#import "NSDate+Additions.h"
+//#import "UIColor+Additions.h"
+//#import "UIView+Animation.h"
+//#import "NSObject+KVC.h"
+//#import "AXNavgationViewController.h"
+//#import "NSMutableAttributedString+Additions.h"
+//#import "NSAttributedString+YYText.h"
+//#import "AppLayoutTableViewDelegate.h"
+//#import "HTFCoreDataManager.h"
+//#import "ABindCardPreseter.h"
+//#import "APPSharedAPIManager.h"
+//#import "HTFUrlSchemeManager.h"
+//#import "IQUIWindow+Hierarchy.h"
+//#import "UIDevice+YYAdd.h"
+//#import "UIAlertController+supportedInterfaceOrientations.h"
+//#import "AXAmtTextFieldDelegate.h"
+//
+//#import "AXOperationDoneViewController.h"
+
+//#import "EncryptUtil.h"
+//#import "AXUtils.h"
+//#import "AXHttpConfig.h"
+
+#import <SDWebImage/UIImageView+WebCache.h> 
+//#import <BlocksKit/UIAlertView+BlocksKit.h>
+//#import <BlocksKit/UIActionSheet+BlocksKit.h>
+#import <Masonry/Masonry.h>
+//#import <IQKeyboardManager/IQKeyboardManager.h>
+//#import "YYLabel.h"
+//#import "SVPullToRefresh.h"
+//#import "SVProgressHUD.h"
+//#import <tingyunApp/NBSAppAgent.h>
+#endif
+
+
+#endif /* HTFPrefixHeader_pch */
